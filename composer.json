@@ -1,0 +1,17 @@
+{
+    "name": "caoyang/task-queue",
+    "description": "inactive queue of task",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Caoyang",
+            "email": "caoyang1@globalegrow.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Leslie\\": "src/Leslie"}
+    }
+}
